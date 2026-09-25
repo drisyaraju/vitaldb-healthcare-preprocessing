@@ -6,6 +6,8 @@ downstream machine learning applications (e.g. mortality / ICU-admission
 prediction). Built as a data science portfolio project — every design
 decision below is deliberate and documented, not a default left in place.
 
+deployed link:https://vitaldb-healthcare-preprocessing-yxa79wkc5csfhru4pugbyq.streamlit.app/
+
 ## Why this dataset
 
 VitalDB is high-fidelity, real hospital data — 6,388 surgical cases from
